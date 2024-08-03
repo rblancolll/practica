@@ -56,20 +56,5 @@
         android:orientation="horizontal"
         android:weightSum="1">
 
-        <Button
-            android:id="@+id/btnActualizar"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.5"
-            android:text="Actualizar"
-            android:onClick="onClick"/>
-
-        <Button
-            android:id="@+id/btnEliminar"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.5"
-            android:text="Eliminar"
-            android:onClick="onClick"/>
     </LinearLayout>
 </LinearLayout>
